@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from "react";
+import './reset.css'
 import imgLogo from './img/logo.png'
 import imgLupa from './img/lupa.png'
 import Card from './compoments/Card'
